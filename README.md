@@ -112,10 +112,3 @@ TECSUP
 ## 📝 Licencia
 
 Este proyecto está bajo la Licencia MIT.
-
-```
-
----
-
-¿Quieres que lo genere directamente como archivo o quieres agregar alguna sección más (por ejemplo, sobre contribuciones o referencias)?
-```
